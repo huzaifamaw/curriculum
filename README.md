@@ -3,7 +3,7 @@
 Open Source Curriculum for CNCF Certification Courses
 
 This is the the latest version of the curriculum for the following CNCF exams:
-
+Huzaifa MAWAHAB
 * Certified Kubernetes Administrator (CKA)
 * Certified Kubernetes Application Developer (CKAD)
 * Certified Kubernetes Security Specialist (CKS)
